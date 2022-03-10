@@ -1,0 +1,10 @@
+documantation
+kubernetes
+.gitignore
+.dockerignore
+Dockerfile
+LICENSE
+README.md
+app.test.js
+package-lock.json
+build.sh
